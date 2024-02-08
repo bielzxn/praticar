@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="pagina principal.css">
+    <link rel="shortcut icon" href="https://img.freepik.com/fotos-premium/um-intrincado-fundo-microeletronico-do-processador-da-placa-mae-mostrando-a-complexidade-e-sofisticacao-da-tecnologia-moderna-generative-ai_213438-12030.jpg" type="image/x-icon">
+    <title>Sobre Componentes da Placa Mãe</title>
+</head>
+<body>
+
+    <br><br>
+
+    <a href="memória ram/ram.html" target="_blank">MEMÓRIA RAM</a>
+
+    <a href="ssd/ssd.html" target="_blank">SSD</a>
+
+    <a href="">COOLER</a>
+
+    <a href="">FONTE</a>
+
+    <h1>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat nobis praesentium consequuntur qui obcaecati ut minus quasi laudantium, ratione cum ullam repellat maiores ea ipsam labore perferendis nesciunt dolorum dolorem.</h1>
+    <img src="https://super.abril.com.br/wp-content/uploads/2020/06/e.jpg?quality=90&strip=info&w=1024&resize=1200,800" width="450px" alt="">
+    <br>
+    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dolor ducimus totam culpa aliquid veniam nemo amet? Eos vel iste rem perspiciatis nobis, velit incidunt architecto? Vitae nulla inventore debitis nihil.
+    Reiciendis facere id blanditiis dignissimos accusantium corrupti incidunt, cupiditate vel eos expedita deserunt reprehenderit fugiat, sint fugit minus repellat adipisci aliquid quia odit suscipit. Sed rerum repellendus itaque earum similique!
+    Labore, exercitationem! Iusto aut incidunt voluptas eum sunt pariatur non recusandae, minus officia ipsa vero architecto commodi laboriosam? Labore ex ducimus similique atque! Dolores earum similique facilis rem qui sed!
+    Reiciendis beatae similique officia. Illo, quo! Velit minima omnis, totam voluptatem rerum provident aperiam aut labore soluta eligendi nesciunt iste incidunt eius, tenetur quam illo molestiae maiores nulla? Minima, quas?
+    Qui rerum sapiente repellendus optio odio eum perspiciatis, architecto accusamus voluptas esse eveniet consequuntur quia neque placeat ratione fugiat ipsa officia officiis dicta. Necessitatibus quibusdam aspernatur, officiis saepe voluptates fugiat?</p>
+</body>
+</html>
+
+CSS da pagina principal
+
+  body{
+    background-color: skyblue;
+    color: black;
+}
+
+h1{
+    background-color: slategrey;
+    border-radius: 12px;
+    font-size: 25px;
+    margin: 3%;
+    font-style: italic;
+}
+
+p{
+    background-color: slategray;
+    border-radius: 12px;
+    font-size: 25px;
+    margin: 3%;
+    font-style: italic;
+    font-size: 25px;
+}
+
+a{
+    color: white;
+    margin-left: 15%;
+    font-style: italic;
+    font-size: 20px;
+}
+
+img{
+    border-radius: 12px;
+    margin-left: 700px;
+}
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="ram.css">
+    <link rel="shortcut icon" href="https://www.meupositivo.com.br/doseujeito/wp-content/uploads/2019/05/para-que-serve-memoria-ram.jpg" type="image/x-icon">
+    <title>Memória Ram</title>
+</head>
+<body>
+    <br>
+    <h1>Memória Ram</h1>
+    <br>
+
+    <div style="display: inline-block;">
+        <img src="https://www.bringit.com.br/blog/wp-content/uploads/2020/02/memoria-notebook-suporta.jpg" width="450px" alt="">
+        <img src="https://blog.navegamer.com.br/wp-content/uploads/2020/07/memoria-1024x577.jpg" width="450" alt="">
+
+    </div>
+
+    <table>
+        <tr>
+            <td>
+            </td>
+        </tr>
+    </table>
+  
+<br><br><br><br><br><br>
+    <h2>Saiba mais sobre Memória Ram:</h2>
+
+    <br><br><br><br><br>
+    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Vel eaque nobis, sapiente ad fugiat atque enim nemo molestiae delectus provident dignissimos magni, odio debitis unde veniam modi voluptatibus cupiditate natus?
+    Dolorem non quidem atque aperiam quas, ab cupiditate odio voluptatibus dicta eaque voluptates vel sint vero earum. Eos, deleniti ut odio rerum in animi repellendus ipsa hic! Nostrum, aperiam sapiente.
+    Nostrum praesentium quos dolorem sed earum ipsa provident exercitationem, saepe est voluptatum inventore corporis architecto, consequuntur culpa cumque? A ipsa repudiandae autem fugiat magni recusandae rem obcaecati ullam suscipit nesciunt!
+    Cum distinctio iure quod id possimus odio, minus corporis itaque veniam necessitatibus delectus officiis? Delectus, temporibus. Alias provident vel modi saepe blanditiis reprehenderit, quas sit, deleniti labore excepturi enim facere!
+    Doloremque harum nesciunt deserunt amet corrupti nemo. Tenetur accusantium inventore, explicabo quidem aperiam ipsam debitis magnam recusandae voluptate veritatis, labore nemo ipsum necessitatibus eveniet pariatur! Ab ea maxime quidem porro?
+    Placeat hic, fugiat suscipit voluptatum veritatis autem error atque earum explicabo! Perferendis natus fuga explicabo cum aperiam. Ducimus officiis labore similique delectus eveniet ex! Vitae odio rem animi eos illum?
+    Fuga dolorum velit porro, ex quibusdam totam magnam a deserunt, sit accusantium nisi voluptates ab omnis provident exercitationem dicta quisquam odit quidem, at reprehenderit ea eum? Delectus eos molestiae quae?
+    Eveniet asperiores tempore, sunt enim possimus dolore blanditiis, vitae laborum facilis atque sint ipsum aut alias! Debitis ea repudiandae dolore dolorum obcaecati, aperiam facilis? Ipsa incidunt architecto placeat obcaecati.</p>
+</body>
+</html>
+
+
+CSS da memoria ram
+
+body{
+    background-color: skyblue;
+    color: black;
+}
+
+h1{
+   
+    border-radius: 12px;
+    font-size: 25px;
+    text-align: center;
+    font-style: italic;
+
+}
+
+h2{
+    text-align: center;
+}
+
+img{
+    border-radius: 12px;
+    height: 250px;
+    margin-left: 350px;
+}
+
+
+
+p{
+    background-color: slategray;
+    border-radius: 12px;
+    font-size: 25px;
+    margin: 3%;
+    font-style: italic;
+    font-size: 25px;    
+}
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="ssd.css">
+    <link rel="shortcut icon" href="https://s.zst.com.br/cms-assets/2022/01/melhor-ssd-240gb.webp" type="image/x-icon">
+    <title>SOBRE SSD</title>
+</head>
+<body>
+    <h1>SSD</h1>
+   
+    <br>
+    <img src="https://quenotebookcomprar.com.br/wp-content/uploads/2020/01/qual-ssd-comprar_capa-ssd-tipo-sata-nvme-solid-state-drive.jpg" width="600px" alt="">
+
+    <h2>Saiba mais sobre o SSD</h2>
+
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda consectetur possimus iure velit? Quas earum accusamus tempore provident ratione aliquid odit eligendi, fugit laborum, obcaecati rem minus? Expedita, quidem aut.
+    Id unde magni quam doloremque fugit delectus iure itaque, expedita numquam animi sit minima veniam eaque, nostrum obcaecati reprehenderit, laboriosam facere dignissimos est? Natus praesentium excepturi recusandae iusto, mollitia neque!
+    Numquam a non iste voluptatibus expedita ex impedit odio molestiae nulla possimus maiores ut deleniti quis iusto, unde voluptas natus repellendus atque nisi velit eius porro? Quas ipsa rerum consectetur.
+    Perspiciatis exercitationem dignissimos ipsum excepturi? Maiores minima quas culpa autem cumque tempore, obcaecati alias ea earum. Qui inventore, nostrum excepturi officiis quod error, ad tempore sunt non sapiente ex. Dolor?
+    Harum quas sed eligendi deleniti quam ipsam natus provident corporis libero ipsa, expedita neque vitae laudantium repellendus, molestias dolor dicta corrupti ea. Optio quibusdam facilis quidem quam natus eveniet architecto.
+    Dolorum explicabo repellendus necessitatibus ullam quae molestiae rerum aperiam aspernatur impedit non fugiat, blanditiis, debitis qui voluptatem cumque doloremque distinctio! Id quasi nulla vitae eius sapiente ad pariatur? Nesciunt, nulla?
+    Ex ducimus assumenda omnis fuga, facilis vitae. Dolorem deserunt, quod, ut eos voluptatibus suscipit a veniam itaque vero dignissimos corrupti rem eligendi nostrum aliquid! Explicabo cumque eligendi magni dicta libero?
+    Cupiditate totam sapiente impedit perferendis minima maiores similique, beatae itaque delectus ipsum fuga, veniam aspernatur dolorem unde, veritatis voluptas dignissimos debitis? Omnis alias voluptatibus architecto facilis corrupti perspiciatis suscipit voluptatum.</p>
+</body>
+</html>
+
+
+CSS do SSD
+
+
+body{
+    background-color: skyblue;
+}
+
+h1{
+    margin-left: 860px;
+
+}
+
+h2{
+    margin-left: 750px;
+}
+
+img{
+    border-radius: 12px;
+    margin-left: 600px;
+}
+
+p{
+    background-color: slategray;
+    border-radius: 12px;
+    font-size: 25px;
+    margin: 3%;
+    font-style: italic;
+    font-size: 25px;
+}
+
+
+
+
+
+
+
+
+  
